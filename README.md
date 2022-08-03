@@ -2,7 +2,7 @@
 
 
 - 📚 Estudando Typescript / Java / Spring 
-- 👯 Contate-me no email: juniorzmartin@gmail.com 
+- 📧 Contate-me no email: juniorzmartin@gmail.com 
 
 
 <div align="center">
